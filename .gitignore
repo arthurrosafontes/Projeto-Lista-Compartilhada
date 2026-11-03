@@ -1,0 +1,17 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+
+# Dados de runtime do fallback em memória (usuários, listas, tokens revogados)
+src/config/.runtime_store.json
+
+# Arquivos internos do agente de IA
+.antigravity/
+
+# Pacotes gerados
+*.zip
