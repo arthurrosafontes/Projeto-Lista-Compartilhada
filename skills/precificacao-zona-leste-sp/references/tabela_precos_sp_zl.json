@@ -1,0 +1,439 @@
+{
+  "metadata": {
+    "regiao": "Zona Leste - São Paulo (SP)",
+    "bairros": ["Mooca", "Belém", "Tatuapé"],
+    "mercadosReferencia": [
+      "Sonda Supermercados (Mooca / Tatuapé)",
+      "Supermercados Chama (Belém / Mooca / Tatuapé)",
+      "Carrefour (Celso Garcia - Belém / Salim Farah Maluf - Tatuapé)",
+      "Pão de Açúcar (Tatuapé / Mooca)",
+      "Supermercado Dia (Mooca / Belém / Tatuapé)",
+      "Assaí Atacadista / Atacadão (Marginal Tietê / Radial Leste)"
+    ],
+    "moeda": "BRL",
+    "precoFallbackPadrao": 8.90,
+    "atualizadoEm": "2026-10"
+  },
+  "itens": [
+    {
+      "nome": "Arroz Agulhinha Tipo 1 (5kg)",
+      "termos": ["arroz 5kg", "arroz tipo 1", "arroz branco", "pacote de arroz", "arroz camil", "arroz tio joao"],
+      "categoria": "Mercearia",
+      "unidade": "pct",
+      "precoMedio": 28.90
+    },
+    {
+      "nome": "Arroz Agulhinha Tipo 1 (1kg)",
+      "termos": ["arroz", "arroz 1kg", "arroz integral", "arroz parboilizado"],
+      "categoria": "Mercearia",
+      "unidade": "kg",
+      "precoMedio": 6.49
+    },
+    {
+      "nome": "Feijão Carioca Tipo 1 (1kg)",
+      "termos": ["feijao", "feijao carioca", "feijao 1kg", "feijao camil", "feijao kicaldo", "pacote de feijao"],
+      "categoria": "Mercearia",
+      "unidade": "pct",
+      "precoMedio": 8.49
+    },
+    {
+      "nome": "Feijão Preto Tipo 1 (1kg)",
+      "termos": ["feijao preto", "feijao feijoada"],
+      "categoria": "Mercearia",
+      "unidade": "pct",
+      "precoMedio": 8.90
+    },
+    {
+      "nome": "Açúcar Refinado (1kg)",
+      "termos": ["acucar", "acucar refinado", "acucar uniao", "acucar cristal", "acucar 1kg"],
+      "categoria": "Mercearia",
+      "unidade": "pct",
+      "precoMedio": 4.99
+    },
+    {
+      "nome": "Café Torrado e Moído (500g)",
+      "termos": ["cafe", "cafe 500g", "po de cafe", "cafe pilao", "cafe melitta", "cafe 3 coracoes", "cafe caboclo"],
+      "categoria": "Mercearia",
+      "unidade": "pct",
+      "precoMedio": 19.80
+    },
+    {
+      "nome": "Óleo de Soja (900ml)",
+      "termos": ["oleo", "oleo de soja", "oleo liza", "oleo soya", "oleo de cozinha"],
+      "categoria": "Mercearia",
+      "unidade": "un",
+      "precoMedio": 6.79
+    },
+    {
+      "nome": "Azeite de Oliva Extra Virgem (500ml)",
+      "termos": ["azeite", "azeite extra virgem", "azeite gallo", "azeite andorinha", "azeite de oliva"],
+      "categoria": "Mercearia",
+      "unidade": "un",
+      "precoMedio": 39.90
+    },
+    {
+      "nome": "Macarrão Espaguete / Parafuso (500g)",
+      "termos": ["macarrao", "espaguete", "macarrao parafuso", "macarrao penne", "massa", "macarrao adria", "macarrao barilla", "macarrao renata"],
+      "categoria": "Mercearia",
+      "unidade": "pct",
+      "precoMedio": 4.79
+    },
+    {
+      "nome": "Macarrão Instantâneo Miojo (85g)",
+      "termos": ["miojo", "macarrao instantaneo", "nissin", "lamen"],
+      "categoria": "Mercearia",
+      "unidade": "un",
+      "precoMedio": 2.69
+    },
+    {
+      "nome": "Molho de Tomate Tradicional (300g)",
+      "termos": ["molho de tomate", "extrato de tomate", "pomarola", "elefante", "sache de molho", "molho"],
+      "categoria": "Mercearia",
+      "unidade": "un",
+      "precoMedio": 2.99
+    },
+    {
+      "nome": "Farinha de Trigo (1kg)",
+      "termos": ["farinha de trigo", "farinha", "trigo", "farinha dona benta", "farinha anaconda"],
+      "categoria": "Mercearia",
+      "unidade": "kg",
+      "precoMedio": 5.49
+    },
+    {
+      "nome": "Farinha de Mandioca / Farofa Pronta (400g)",
+      "termos": ["farofa", "farinha de mandioca", "farofa yoki", "farofa pronta"],
+      "categoria": "Mercearia",
+      "unidade": "pct",
+      "precoMedio": 6.90
+    },
+    {
+      "nome": "Sal Refinado (1kg)",
+      "termos": ["sal", "sal refinado", "sal cisne", "sal marinho", "sal grosso"],
+      "categoria": "Mercearia",
+      "unidade": "kg",
+      "precoMedio": 2.89
+    },
+    {
+      "nome": "Milho Verde / Ervilha em Conserva (170g)",
+      "termos": ["milho verde", "lata de milho", "ervilha", "milho em conserva", "seleta de legumes"],
+      "categoria": "Mercearia",
+      "unidade": "un",
+      "precoMedio": 3.99
+    },
+    {
+      "nome": "Atum Ralado / Sólido em Lata (170g)",
+      "termos": ["atum", "lata de atum", "sardinha", "lata de sardinha", "atum gomes da costa"],
+      "categoria": "Mercearia",
+      "unidade": "un",
+      "precoMedio": 8.90
+    },
+    {
+      "nome": "Maionese Tradicional (500g)",
+      "termos": ["maionese", "hellmanns", "ketchup", "mostarda"],
+      "categoria": "Mercearia",
+      "unidade": "un",
+      "precoMedio": 9.80
+    },
+    {
+      "nome": "Biscoito Recheado / Bolacha (140g)",
+      "termos": ["biscoito", "bolacha", "biscoito recheado", "trakinas", "oreo", "passatempo", "bolacha maisena", "cream cracker"],
+      "categoria": "Mercearia",
+      "unidade": "pct",
+      "precoMedio": 3.79
+    },
+    {
+      "nome": "Achocolatado em Pó (400g)",
+      "termos": ["achocolatado", "nescau", "toddy", "chocolate em po"],
+      "categoria": "Mercearia",
+      "unidade": "un",
+      "precoMedio": 8.99
+    },
+    {
+      "nome": "Leite Condensado (395g)",
+      "termos": ["leite condensado", "moca", "italac leite condensado"],
+      "categoria": "Mercearia",
+      "unidade": "un",
+      "precoMedio": 6.49
+    },
+    {
+      "nome": "Creme de Leite (200g)",
+      "termos": ["creme de leite", "caixinha de creme de leite"],
+      "categoria": "Mercearia",
+      "unidade": "un",
+      "precoMedio": 3.89
+    },
+    {
+      "nome": "Leite Longa Vida Integral/Desnatado (1L)",
+      "termos": ["leite", "leite integral", "leite desnatado", "leite semidesnatado", "caixa de leite", "leite italac", "leite piracanjuba", "leite ninho", "leite paulista"],
+      "categoria": "Laticínios",
+      "unidade": "l",
+      "precoMedio": 5.69
+    },
+    {
+      "nome": "Manteiga com Sal (200g)",
+      "termos": ["manteiga", "manteiga aviacao", "manteiga presidente", "manteiga itambe"],
+      "categoria": "Laticínios",
+      "unidade": "un",
+      "precoMedio": 12.90
+    },
+    {
+      "nome": "Margarina Cremosa (500g)",
+      "termos": ["margarina", "qualy", "delicia", "doriana"],
+      "categoria": "Laticínios",
+      "unidade": "un",
+      "precoMedio": 7.99
+    },
+    {
+      "nome": "Requeijão Cremoso (200g)",
+      "termos": ["requeijao", "requeijao vigor", "requeijao catupiry", "requeijao cremoso", "requeijao light"],
+      "categoria": "Laticínios",
+      "unidade": "un",
+      "precoMedio": 8.49
+    },
+    {
+      "nome": "Iogurte Natural / Polpa de Frutas",
+      "termos": ["iogurte", "danone", "iogurte natural", "yakult", "leite fermentado", "iogurte grego"],
+      "categoria": "Laticínios",
+      "unidade": "un",
+      "precoMedio": 6.90
+    },
+    {
+      "nome": "Queijo Mussarela Fatiado (200g)",
+      "termos": ["mussarela", "queijo", "queijo mussarela", "queijo prato", "queijo fatiado", "queijo minas", "queijo branco", "parmesao"],
+      "categoria": "Frios e Laticínios",
+      "unidade": "pct",
+      "precoMedio": 11.50
+    },
+    {
+      "nome": "Presunto Cozido Fatiado (200g)",
+      "termos": ["presunto", "presunto fatiado", "peito de peru", "mortadela", "salame"],
+      "categoria": "Frios e Laticínios",
+      "unidade": "pct",
+      "precoMedio": 8.20
+    },
+    {
+      "nome": "Ovos Brancos Grandes (Cartela 12 un)",
+      "termos": ["ovo", "ovos", "duzia de ovos", "cartela de ovos", "ovo caipira"],
+      "categoria": "Mercearia / Hortifruti",
+      "unidade": "dz",
+      "precoMedio": 11.90
+    },
+    {
+      "nome": "Pão de Forma Tradicional / Integral (450g)",
+      "termos": ["pao de forma", "pao pullman", "pao wickbold", "pao integral", "bisnaguinha"],
+      "categoria": "Padaria",
+      "unidade": "pct",
+      "precoMedio": 8.99
+    },
+    {
+      "nome": "Pão Francês (Porção ~500g)",
+      "termos": ["pao", "pao frances", "paozinho", "baguete", "pao de queijo"],
+      "categoria": "Padaria",
+      "unidade": "pct",
+      "precoMedio": 8.50
+    },
+    {
+      "nome": "Peito de Frango / Filé de Frango (1kg)",
+      "termos": ["frango", "peito de frango", "file de frango", "frango sassami", "coxa e sobrecoxa", "asa de frango"],
+      "categoria": "Açougue",
+      "unidade": "kg",
+      "precoMedio": 21.90
+    },
+    {
+      "nome": "Carne Moída Bovina - Patinho/Acém (1kg)",
+      "termos": ["carne moida", "patinho", "acem", "carne", "musculo"],
+      "categoria": "Açougue",
+      "unidade": "kg",
+      "precoMedio": 36.90
+    },
+    {
+      "nome": "Bife Bovino - Alcatra / Contrafilé (1kg)",
+      "termos": ["carne bovina", "alcatra", "contrafile", "bife", "coxao mole", "picanha", "fraldinha"],
+      "categoria": "Açougue",
+      "unidade": "kg",
+      "precoMedio": 46.90
+    },
+    {
+      "nome": "Linguiça Toscana / Calabresa (1kg)",
+      "termos": ["linguica", "calabresa", "linguica toscana", "linguica calabresa", "bacon", "salsicha"],
+      "categoria": "Açougue",
+      "unidade": "kg",
+      "precoMedio": 24.90
+    },
+    {
+      "nome": "Filé de Tilápia / Peixe (800g)",
+      "termos": ["peixe", "tilapia", "file de peixe", "salmao", "merluza"],
+      "categoria": "Peixaria",
+      "unidade": "pct",
+      "precoMedio": 38.90
+    },
+    {
+      "nome": "Banana Nanica / Prata (1kg)",
+      "termos": ["banana", "banana nanica", "banana prata", "duzia de banana"],
+      "categoria": "Hortifruti",
+      "unidade": "kg",
+      "precoMedio": 6.90
+    },
+    {
+      "nome": "Maçã Gala / Fuji (1kg)",
+      "termos": ["maca", "maca gala", "maca fuji", "maca turma da monica"],
+      "categoria": "Hortifruti",
+      "unidade": "kg",
+      "precoMedio": 11.90
+    },
+    {
+      "nome": "Tomate Italiano / Carmem (1kg)",
+      "termos": ["tomate", "tomate cereja", "tomate salada"],
+      "categoria": "Hortifruti",
+      "unidade": "kg",
+      "precoMedio": 8.90
+    },
+    {
+      "nome": "Batata Lavada / Inglesa (1kg)",
+      "termos": ["batata", "batata inglesa", "batata doce", "mandioca"],
+      "categoria": "Hortifruti",
+      "unidade": "kg",
+      "precoMedio": 7.49
+    },
+    {
+      "nome": "Cebola Nacional (1kg)",
+      "termos": ["cebola", "cebola roxa"],
+      "categoria": "Hortifruti",
+      "unidade": "kg",
+      "precoMedio": 6.99
+    },
+    {
+      "nome": "Alho Roxo (200g)",
+      "termos": ["alho", "cabeca de alho", "dente de alho"],
+      "categoria": "Hortifruti",
+      "unidade": "pct",
+      "precoMedio": 7.50
+    },
+    {
+      "nome": "Alface Crespa / Americana (Unidade)",
+      "termos": ["alface", "rucula", "agriao", "couve", "cheiro verde", "coentro", "salsinha", "salada"],
+      "categoria": "Hortifruti",
+      "unidade": "un",
+      "precoMedio": 4.49
+    },
+    {
+      "nome": "Cenoura / Beterraba / Abobrinha (1kg)",
+      "termos": ["cenoura", "beterraba", "abobrinha", "chuchu", "pepino", "berinjela", "brocolis", "couve flor"],
+      "categoria": "Hortifruti",
+      "unidade": "kg",
+      "precoMedio": 6.80
+    },
+    {
+      "nome": "Laranja Pêra / Limão Taiti (1kg)",
+      "termos": ["laranja", "limao", "mexerica", "tangerina", "mamao", "melancia", "abacaxi", "uva", "morango", "abacate", "manga"],
+      "categoria": "Hortifruti",
+      "unidade": "kg",
+      "precoMedio": 6.49
+    },
+    {
+      "nome": "Água Mineral sem Gás (1,5L)",
+      "termos": ["agua", "agua mineral", "agua com gas", "garrafa de agua"],
+      "categoria": "Bebidas",
+      "unidade": "un",
+      "precoMedio": 3.29
+    },
+    {
+      "nome": "Refrigerante PET (2L)",
+      "termos": ["refrigerante", "coca cola", "coca", "guarana", "guarana antarctica", "fanta", "sprite", "pepsi"],
+      "categoria": "Bebidas",
+      "unidade": "un",
+      "precoMedio": 9.99
+    },
+    {
+      "nome": "Suco Integral / Néctar de Fruta (1L)",
+      "termos": ["suco", "suco de uva", "suco de laranja", "del valle", "suco natural"],
+      "categoria": "Bebidas",
+      "unidade": "l",
+      "precoMedio": 9.49
+    },
+    {
+      "nome": "Cerveja Lata (350ml)",
+      "termos": ["cerveja", "heineken", "brahma", "skol", "amstel", "original", "spaten", "lata de cerveja"],
+      "categoria": "Bebidas",
+      "unidade": "un",
+      "precoMedio": 4.79
+    },
+    {
+      "nome": "Detergente Líquido Lava-Louças (500ml)",
+      "termos": ["detergente", "ype", "limpol", "minuano", "lava loucas"],
+      "categoria": "Limpeza",
+      "unidade": "un",
+      "precoMedio": 2.59
+    },
+    {
+      "nome": "Sabão em Pó / Lava-Roupas (1,6kg)",
+      "termos": ["sabao em po", "omo", "tixan", "brilhante", "sabao liquido", "lava roupas"],
+      "categoria": "Limpeza",
+      "unidade": "cx",
+      "precoMedio": 21.90
+    },
+    {
+      "nome": "Amaciante de Roupas (2L)",
+      "termos": ["amaciante", "downy", "comfort", "fofo", "ype amaciante"],
+      "categoria": "Limpeza",
+      "unidade": "un",
+      "precoMedio": 14.90
+    },
+    {
+      "nome": "Água Sanitária / Cloro (2L)",
+      "termos": ["agua sanitaria", "candida", "cloro", "qboa"],
+      "categoria": "Limpeza",
+      "unidade": "un",
+      "precoMedio": 6.49
+    },
+    {
+      "nome": "Desinfetante / Multiuso (500ml)",
+      "termos": ["desinfetante", "veja", "multiuso", "pinho sol", "limpador", "alcool"],
+      "categoria": "Limpeza",
+      "unidade": "un",
+      "precoMedio": 6.90
+    },
+    {
+      "nome": "Esponja de Louça / Lã de Aço",
+      "termos": ["esponja", "buchinha", "scotch brite", "bombril", "palha de aco", "saco de lixo"],
+      "categoria": "Limpeza",
+      "unidade": "pct",
+      "precoMedio": 4.99
+    },
+    {
+      "nome": "Papel Higiênico Folha Dupla (12 rolos)",
+      "termos": ["papel higienico", "neve", "personal", "sublime", "papel toalha", "guardanapo"],
+      "categoria": "Higiene",
+      "unidade": "pct",
+      "precoMedio": 19.90
+    },
+    {
+      "nome": "Sabonete em Barra (90g)",
+      "termos": ["sabonete", "dove", "lux", "protex", "nivea", "phebo"],
+      "categoria": "Higiene",
+      "unidade": "un",
+      "precoMedio": 3.49
+    },
+    {
+      "nome": "Creme Dental / Pasta de Dente (90g)",
+      "termos": ["pasta de dente", "creme dental", "colgate", "sorriso", "oral b", "fio dental"],
+      "categoria": "Higiene",
+      "unidade": "un",
+      "precoMedio": 5.49
+    },
+    {
+      "nome": "Shampoo / Condicionador (400ml)",
+      "termos": ["shampoo", "xampu", "condicionador", "elseve", "pantene", "seda", "clear"],
+      "categoria": "Higiene",
+      "unidade": "un",
+      "precoMedio": 16.90
+    },
+    {
+      "nome": "Desodorante Aerosol (150ml)",
+      "termos": ["desodorante", "rexona", "dove desodorante", "nivea desodorante"],
+      "categoria": "Higiene",
+      "unidade": "un",
+      "precoMedio": 15.90
+    }
+  ]
+}
