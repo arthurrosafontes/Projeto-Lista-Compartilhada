@@ -1,0 +1,11 @@
+# Porta de execução do servidor Express
+PORT=3000
+
+# String de conexão do MongoDB (Local ou MongoDB Atlas)
+MONGODB_URI=mongodb://127.0.0.1:27017/lista_compras_zl_sp
+
+# Chave secreta para assinatura de tokens JWT (troque em produção)
+JWT_SECRET=troque_por_uma_chave_secreta_longa_e_aleatoria
+
+# Tempo de expiração do token JWT
+JWT_EXPIRES_IN=7d
